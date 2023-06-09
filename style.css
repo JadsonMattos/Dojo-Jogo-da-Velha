@@ -1,15 +1,15 @@
 body{
-  background-color: rgb(186, 241, 255);
+  background-color: grey;
 }
 
 .header{
-  color: azure;
+  color: white;
   text-align: center;
 }
 
 .header h1{
   font-size: 30px;
-  color: azure;
+  color: white;
   text-align: center;
   padding-top: 20px;
 }
@@ -19,7 +19,7 @@ body{
   border-radius: 10px;
   margin: 0 auto;
   max-width: 580px;
-  background-color: rgb(128, 147, 255);
+  background-color: black;
   text-align: center;
 }
 
@@ -38,12 +38,12 @@ body{
   padding-top: 10px;
   border-radius: 7px;
   text-align: center;
-  background-color: rgb(193, 225, 255);
+  background-color: white;
 }
 
 #reset{
-  background-color: rgb(0, 20, 199);
-  color: azure;
+  background-color: silver;
+  color: black;
   font-size: 150%;
   border-style: none;
   border-radius: 10px;
